@@ -2,6 +2,10 @@
 Developer:ahitisham
 date:12/1/21
 url : https://card-image.vercel.app/
+![ScreenShot](https://github.com/AngularProjects2021/card-image/blob/main/Screenshot%20of%20Cards.jpg)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
 ## Development server
